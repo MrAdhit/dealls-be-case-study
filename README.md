@@ -104,9 +104,6 @@ See `test_integration.py` to see how these get used exactly.
 Any response that is type of `application/json` are guaranteed to be the valid object data.\
 Every user-error is in type of `text/plain`, containing the short error description.
 
-I hosted the backend at `http://103.42.116.117:8023` so that you could quickly test everything.\
-See getting started for the credentials.
-
 ### Auth
 
 <details>
